@@ -133,5 +133,6 @@ console.log("EL caracter en esa posicion es:" + " "+ texto[indice]);
 
 ```javascript
 
+
 ```
 ![ll]()
