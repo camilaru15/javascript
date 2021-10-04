@@ -2,6 +2,7 @@
 
 ## Participantes:
 
+- Alejandro Serna Loaiza 
 - Maria Camila Rueda Cano
 
 ### Ejercicio N°1
@@ -60,7 +61,7 @@ console.log("Ingresa los litros de combustible gastados"+ " " + ltr);
 console.log("EL consumo por kilometro es de"+y);
 ```
 
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioCuatro.png)
 ### Ejercicio N°5
 
 ```javascript
@@ -74,7 +75,7 @@ console.log("Ingresa la tempratura expresada en Farenheit"+" "+f);
 console.log(c)
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejericioCinco.png)
 
 
 ### Ejercicio N°6
@@ -94,7 +95,7 @@ console.log("Tercer numero"+" "+numeroTres);
 console.log("EL promedio de los tres es"+p);
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioSeis.png)
 
 ### Ejercicio N°7
 
@@ -103,5 +104,34 @@ var numero=prompt("Ingresa numero");
 var b= (parseInt(numero)*85)/100;
 console.log("ingresa un numero:"+" "+numero);
 console.log("Descontando el 15% queda:"+" "+ b);
+```
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioSiete.png)
+
+### Ejercicio N°8
+
+```javascript
+var palabraUno =prompt("Ingrese la primera palabra");
+var palabraDos =prompt("Ingrese la segunda palabra");
+console.log("Primera palabra:"+" "+palabraUno);
+console.log("Primera palabra"+" "+palabraDos);
+console.log(palabraUno +" "+ palabraDos);
+```
+![ll]()
+
+### Ejercicio N°9
+
+```javascript
+var texto=prompt("Ingrese una palabra o un texto");
+console.log("El caracter en primer lugar es:"+" "+texto[0]);
+console.log("Ingrese un numero positivo menor a"+" "+ lenght(texto));
+var indice=parseInt(prompt());
+console.log("EL caracter en esa posicion es:" + " "+ texto[indice]);
+```
+![ll]()
+
+### Ejercicio N°10
+
+```javascript
+
 ```
 ![ll]()
