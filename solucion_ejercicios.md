@@ -26,7 +26,7 @@ console.log("Segundo numero:" + " " + numeroEnt);
 console.log("El resultado de la suma es:" + " " + suma);
 ```
 
-![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejericioDos.png)
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercioDos.png)
 
 ### Ejercicio N°3
 
@@ -45,4 +45,4 @@ console.log("Suman:" + " " + suma);
 console.log("Multiplicacion de la suma por el ultimo numero:" + x);
 ```
 
-![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejericioTres.png)
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercioTres.png)
