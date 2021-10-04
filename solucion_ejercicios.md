@@ -46,3 +46,62 @@ console.log("Multiplicacion de la suma por el ultimo numero:" + x);
 ```
 
 ![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercioTres.png)
+
+### Ejercicio N°4
+
+```javascript
+var km;
+var ltr;
+var y = parseInt(km)/parseFloat(ltr);
+km= prompt("Kilometros recorridos");
+ltr= prompt("Litros de combustible gastados");
+console.log("Ingresa los kilometros recorridos"+ " " + km);
+console.log("Ingresa los litros de combustible gastados"+ " " + ltr);
+console.log("EL consumo por kilometro es de"+y);
+```
+
+![ll]()
+### Ejercicio N°5
+
+```javascript
+var x=5;
+var m=9;
+var n=32;
+var f;
+f= prompt("Ingresa la tempratura expresada en Farenheit");
+var c=(x/m)*(f-n);
+console.log("Ingresa la tempratura expresada en Farenheit"+" "+f);
+console.log(c)
+
+```
+![ll]()
+
+
+### Ejercicio N°6
+
+```javascript
+var c=3;
+var numeroUno;
+var numeroDos;
+var numeroTres;
+var numeroUno= prompt("Ingresa primer numero");
+var numeroDos= prompt("Ingrese segundo numero");
+var numeroTres= prompt("Ingrese tercer numero");
+var p= (parseInt(numeroUno)+ parseInt(numeroDos)+ parseInt(numeroTres))/c;
+console.log("Primer numero"+" "+ numeroUno);
+console.log("Segundo numero"+" "+numeroDos);
+console.log("Tercer numero"+" "+numeroTres);
+console.log("EL promedio de los tres es"+p);
+
+```
+![ll]()
+
+### Ejercicio N°7
+
+```javascript
+var numero=prompt("Ingresa numero");
+var b= (parseInt(numero)*85)/100;
+console.log("ingresa un numero:"+" "+numero);
+console.log("Descontando el 15% queda:"+" "+ b);
+```
+![ll]()
