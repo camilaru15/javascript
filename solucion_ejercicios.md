@@ -116,7 +116,7 @@ console.log("Primera palabra:"+" "+palabraUno);
 console.log("Primera palabra"+" "+palabraDos);
 console.log(palabraUno +" "+ palabraDos);
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejericioOcho.png)
 
 ### Ejercicio N°9
 
