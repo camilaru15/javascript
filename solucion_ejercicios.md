@@ -127,7 +127,7 @@ console.log("Ingrese un numero positivo menor a", (cadena).length);
 var indice=parseInt(prompt());
 console.log("EL caracter en esa posicion es:", cadena[indice]);
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioNueve.png)
 
 ### Ejercicio N°10
 
@@ -137,7 +137,7 @@ console.log("Shows vistos en el ultimo año:"+" "+shows)
 console.log(shows>3)
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioDiez.png)
 
 ### Ejercicio N°11
 
@@ -158,7 +158,7 @@ console.log("Numero entero:" + " "+numero);
 console.log((numero/2) == 0);
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioDoce.png)
 
 ### Ejercicio N°13
 
@@ -183,7 +183,7 @@ console.log(longitud/2 == 0);
 
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioCatorce.png)
 
 ### Ejercicio N°15
 
@@ -195,7 +195,7 @@ console.log("Otra palabra:"+" "+ palabra2);
 console.log(palabra1<palabra2);
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioQuince.png)
 
 ### Ejercicio N°16
 
@@ -221,7 +221,7 @@ console.log("Numero:"+ " "+numero)
 console.log("Valor absoluto:", numero)}
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioDiesiete.png)
 
 ### Ejercicio N°18
 
@@ -236,12 +236,12 @@ console.log(numero2, "es mayor")
 }
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioDieciocho.png)
 
 ### Ejercicio N°19
 
 ```javascript
-letra=window.prompt("Letra:")
+var letra=window.prompt("Letra:")
 if (letra.leght!=2){
     console.log("Debe ser sólo una letra")
 }
@@ -250,14 +250,14 @@ else{
  console.log("Es vocal")}
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejercicioDiecinueve.png)
 
 ### Ejercicio N°20
 
 ```javascript
-num1=parseInt(prompt("Primer número:"))
-num2=parseInt(prompt("Segundo número:"))
-num3=parseInt(prompt("Tercer número:"))
+var num1=parseInt(prompt("Primer número:"))
+var num2=parseInt(prompt("Segundo número:"))
+var num3=parseInt(prompt("Tercer número:"))
 if (num1<num2){
     if (num1<num3){
         console.log("Menor:", num1)
@@ -273,4 +273,4 @@ if (num1<num2){
 }
 
 ```
-![ll]()
+![ll](https://github.com/camilaru15/javascript/blob/master/imagenes/ejericioVeinte.png)
